@@ -1,0 +1,19 @@
+{
+  "name": "chainlinkjs",
+  "version": "0.1.1",
+  "description": "Javascript Library For ChainLink",
+  "main": "index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benchlab/chainlinkjs"
+  },
+  "author": "lab@benchx.io",
+  "license": "MIT",
+  "homepage": "https://benchx.io"
+}
